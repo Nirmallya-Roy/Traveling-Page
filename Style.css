@@ -1,0 +1,105 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.main{
+    height:100%;
+     width: 100%;
+     background-image: url("images.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+.nbar {
+    width: 98.7vw;
+    height: 10vh;    
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bg{
+    height:100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.415);  
+}
+.logo img{
+    height: 5vh;
+    width: 2.7vw;
+    
+}
+.logo {
+   font-size: 3vh;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    align-items: center;
+   
+    width:30%;
+}
+
+.nav {
+    height: 10vh;
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    
+  
+}
+.nav a{
+    font-size: 2vh;
+    color: aliceblue;
+    padding-top: 3vh;
+}
+
+.src{
+    height: 10vh;
+    display: flex;
+    width: 30%; 
+    
+    
+}
+.src i{
+    color: aliceblue;
+    font-size: 3.5vh;
+    padding-left: 25vw;
+    padding-top: 2vh;
+}
+.hero {
+    height: 88vh;
+    width: 98.7vw;
+    display: flex;
+    
+    align-items: center;
+}
+.hero-text h1{
+    padding-left: 6.5vw;
+    color :white;
+    font-size: 14vh;
+    line-height: 4vh;
+    
+}
+.tours{
+    height:100vh;
+    width: 98.7vw;
+ 
+}
+.tr{
+    height: 28vh;
+    width: 98.7vw;
+   background-color: rgba(0, 0, 0, 0);
+    
+}
+.tr h2{
+    color: aliceblue;
+    padding-left: 40vw;
+    padding-top: 20vh;
+}
+.tour-cards{
+height: 72vh;
+width: 98.7vw;
+background-color: blue;
+}
