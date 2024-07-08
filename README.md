@@ -1,1 +1,2 @@
 # Traveling-Page
+#install
